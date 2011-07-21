@@ -1,0 +1,8 @@
+See makefile for structure.
+
+To build:
+make
+
+required libraries:
+GLUT (glutg3-dev on ubuntu)
+Xmu (libxmu-dev on ubuntu) 
